@@ -1,0 +1,6 @@
+[project]
+name = "dunedo.nvim"
+version = "0.0.1"
+description = "Habit tracking, journaling, personal growth tool for neovim."
+author = "Felipe J. O. Ribeiro"
+email = "felipejoribeiro1@gmail.com"
